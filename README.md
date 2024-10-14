@@ -4,7 +4,7 @@ The puzzle: https://youtu.be/57N5h3E3Raw
 
 ### How to install
 
-Just download binary for your system from latest release. If there is none (or existing ones don't work) install NodeJS 20.12+ for your system and download `random-voronoi.js` bundle. Run it as `node random-voronoi.js [options]`.
+Just download binary for your system from [latest release](https://github.com/lerarosalene/random-voronoi/releases/latest). If there is none (or existing ones don't work) install NodeJS 20.12+ for your system and download `random-voronoi.js` bundle. Run it as `node random-voronoi.js [options]`.
 
 ### How to use
 
