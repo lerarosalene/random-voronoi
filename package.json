@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "name": "random-voronoi-generator",
+  "version": "1.0.0",
+  "description": "Random voronoi generator",
+  "scripts": {
+    "prettier": "prettier -w \"src/**/*.ts\""
+  },
+  "keywords": [
+    "voronoi diagram"
+  ],
+  "author": "Larissa Rosalene <lerarosalene@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/lodash": "^4.17.10",
+    "@types/node": "^22.7.5",
+    "@types/randomcolor": "^0.5.9",
+    "arg": "^5.0.2",
+    "esbuild": "^0.24.0",
+    "lodash": "^4.17.21",
+    "postject": "^1.0.0-alpha.6",
+    "prettier": "^3.3.3",
+    "randomcolor": "^0.6.2",
+    "typescript": "^5.6.3",
+    "voronoi": "^1.0.0"
+  }
+}

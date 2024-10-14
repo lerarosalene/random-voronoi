@@ -1,0 +1,5 @@
+{
+  "main": "dist/random-voronoi.js",
+  "output": "dist/random-voronoi.blob",
+  "disableExperimentalSEAWarning": true
+}
