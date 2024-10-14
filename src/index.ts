@@ -54,7 +54,7 @@ async function run(
       sites,
       `model.polygons.length(${model.polygons.length})==sites(${sites})`
     );
-    let shouldWaitDrain = result.write(JSON.stringify(model) + "\n");
+    let shouldWaitDrain = !result.write(JSON.stringify(model) + "\n");
     if (shouldWaitDrain) {
       await waitDrain(result);
     }
